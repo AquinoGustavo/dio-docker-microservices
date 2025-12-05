@@ -22,9 +22,5 @@ Este projeto foi desenvolvido como entrega do desafio da DIO sobre Docker aplica
 
 Cada microsserviço é independente e pode crescer de forma modular.
 
----
 
-## ▶️ Como executar o projeto
-
-### 1️⃣ Clonar o repositório
 
